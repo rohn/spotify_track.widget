@@ -3,7 +3,7 @@ Ubersicht Spotify widget
 
 Using Ubersicht displays current track palying in spotify on you desktop.
 
-This repo is a fork of http://tracesof.net/uebersicht/#comment-1445259628 modifying
+This repo is a fork of https://github.com/ThomasBrace/Ubersicht-Spotify-widget modifying
 it so that it looks like http://beautifulblood.deviantart.com/art/Unnamed-255040591
 
 
